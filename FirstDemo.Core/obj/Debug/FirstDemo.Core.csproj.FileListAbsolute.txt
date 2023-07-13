@@ -1,0 +1,11 @@
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\bin\Debug\FirstDemo.Core.dll
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\bin\Debug\FirstDemo.Core.pdb
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\bin\Debug\MvvmCross.Binding.dll
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\bin\Debug\MvvmCross.Core.dll
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\bin\Debug\MvvmCross.Localization.dll
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\bin\Debug\MvvmCross.Platform.dll
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\obj\Debug\FirstDemo.Core.csproj.AssemblyReference.cache
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\obj\Debug\FirstDemo.Core.csproj.CoreCompileInputs.cache
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\obj\Debug\FirstDemo.Core.csproj.CopyComplete
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\obj\Debug\FirstDemo.Core.dll
+C:\Workspace\N-00-FirstDemo\FirstDemo.Core\obj\Debug\FirstDemo.Core.pdb

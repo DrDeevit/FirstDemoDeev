@@ -1,0 +1,34 @@
+int attr MvxBind 0x7f010000
+int attr MvxDropDownItemTemplate 0x7f010001
+int attr MvxGroupItemTemplate 0x7f010002
+int attr MvxItemTemplate 0x7f010003
+int attr MvxLang 0x7f010004
+int attr MvxSource 0x7f010005
+int attr MvxTemplate 0x7f010006
+int dimen margin_huge 0x7f020000
+int dimen margin_large 0x7f020001
+int dimen margin_medium 0x7f020002
+int dimen margin_small 0x7f020003
+int dimen margin_tiny 0x7f020004
+int drawable icon 0x7f030000
+int drawable splash 0x7f030001
+int id MvvmCrossTagId 0x7f040000
+int id MvxBindingTagUnique 0x7f040001
+int layout firstview 0x7f050000
+int layout splashscreen 0x7f050001
+int string ApplicationName 0x7f060000
+int string Hello 0x7f060001
+int string klik_button 0x7f060002
+int style Theme_Splash 0x7f070000
+int[] styleable MvxBinding { 0x7f010000, 0x7f010004 }
+int styleable MvxBinding_MvxBind 0
+int styleable MvxBinding_MvxLang 1
+int[] styleable MvxControl { 0x7f010006 }
+int styleable MvxControl_MvxTemplate 0
+int[] styleable MvxExpandableListView { 0x7f010002 }
+int styleable MvxExpandableListView_MvxGroupItemTemplate 0
+int[] styleable MvxImageView { 0x7f010005 }
+int styleable MvxImageView_MvxSource 0
+int[] styleable MvxListView { 0x7f010001, 0x7f010003 }
+int styleable MvxListView_MvxDropDownItemTemplate 0
+int styleable MvxListView_MvxItemTemplate 1
